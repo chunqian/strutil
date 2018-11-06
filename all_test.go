@@ -2,13 +2,13 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-package strutil
+package strutil // import "modernc.org/strutil"
 
 import (
 	"bytes"
 	"fmt"
-	"github.com/cznic/mathutil"
 	"math"
+	"modernc.org/mathutil"
 	"os"
 	"path"
 	"runtime"

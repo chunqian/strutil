@@ -3,7 +3,7 @@
 // license that can be found in the LICENSE file.
 
 // Package strutil collects utils supplemental to the standard strings package.
-package strutil
+package strutil // import "modernc.org/strutil"
 
 import (
 	"bytes"
